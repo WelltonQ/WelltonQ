@@ -10,7 +10,7 @@ Formado em Engenharia de Computação, procuro contribuir com soluções inovado
 
 Atualmente participo do Bootcamp GoStack da Rocketseat, um treinamento imersivo nas tecnologias mais modernas de desenvolvimento web e mobile. Com a constante evolução na stack JavaScript, pude desenvolver diversos projetos práticos onde estão todos em meus repositórios do GitHub.
 
-Sou Desenvolvedor Front-End autônomo no desenvolvimento de sites e aplicativos utilizando as tecnologias HTML, CSS, JavaScript, ReactJS e React Native.
+Sou Desenvolvedor Front-End autônomo na criação de sites e aplicativos utilizando as tecnologias HTML, CSS, JavaScript, ReactJS e React Native.
  
  
 ## Sobre mim 
