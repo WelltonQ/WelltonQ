@@ -1,16 +1,24 @@
-### Hi there 👋
+<img align="right" width="400" height="300" src="https://user-images.githubusercontent.com/12499627/109495092-8c5f1e80-7a6d-11eb-9bde-851e93f30f3b.gif">
 
-<!--
-**WelltonQ/WelltonQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bem vindo!
+ 
+## Sou Wellton Quirino, desenvolvedor Front-End!
+ 
+Apaixonado e curioso por todo conteúdo que envolve tecnologias. Atuo na área há um pouco mais de 7 anos e a cada dia me impressiono ainda mais ao perceber do que a tecnologia é capaz. Sou desenvolvedor de sistemas em busca constante de desafios! Resolver problemas tem sido meu hobby 😁
 
-Here are some ideas to get you started:
+Formado em Engenharia da Computação, procuro contribuir com soluções inovadoras no desenvolvimento com IoT onde vejo a possibilidade de criar ou automatizar algo que impacte positivamente a vida das pessoas ao meu redor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente participo do Bootcamp GoStack da Rocketseat, um treinamento imersivo nas tecnologias mais modernas de desenvolvimento web e mobile. Com a constante evolução na stack JavaScript, pude desenvolver diversos projetos práticos onde estão todos em meus repositórios do GitHub.
+
+Sou Desenvolvedor Front-End autônomo no desenvolvimento de sites e aplicativos utilizando as tecnologias HTML, CSS, JavaScript, ReactJS e React Native.
+ 
+ 
+## Sobre mim 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WelltonQ)](https://github.com/WelltonQ)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welltonquirino95/)](https://www.linkedin.com/in/welltonquirino95/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584988178707&text=Hello!)](https://api.whatsapp.com/send?phone=5584988178707&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welltonquirino@gmail.com)](mailto:welltonquirino@gmail.com)
+ 
+- Obrigado pela visita. 
+ 
+- Até mais! 🙋‍♂️👨‍💻
