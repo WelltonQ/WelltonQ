@@ -4,7 +4,7 @@
  
 ## Sou Wellton Quirino, Desenvolvedor Front-End!
  
-Apaixonado e curioso por todo conteúdo que envolve tecnologias. Atuo na área de desenvolvimento há um pouco mais de 2 anos e a cada dia me impressiono ainda mais ao perceber do que a tecnologia é capaz. Sou desenvolvedor em busca constante de desafios! Resolver problemas tem sido meu hobby 😁
+Apaixonado e curioso por todo conteúdo que envolve tecnologias. Atuo na área de desenvolvimento web há um pouco mais de 2 anos e a cada dia me impressiono ainda mais ao perceber do que a tecnologia é capaz. Sou desenvolvedor em busca constante de desafios! Resolver problemas tem sido meu hobby 😁
 
 Formado em Engenharia de Computação, procuro contribuir com soluções inovadoras no desenvolvimento com IoT onde vejo a possibilidade de criar ou automatizar algo que impacte positivamente a vida das pessoas ao meu redor.
 
