@@ -4,13 +4,15 @@
  
 ## Sou Wellton Quirino, Desenvolvedor Front-End!
  
-Apaixonado e curioso por todo conteúdo que envolve tecnologias. Atuo na área de desenvolvimento web há um pouco mais de 2 anos e a cada dia me impressiono ainda mais ao perceber do que a tecnologia é capaz. Sou desenvolvedor em busca constante de desafios! Resolver problemas tem sido meu hobby 😁
+Apaixonado e curioso por todo conteúdo que envolve tecnologias. Atuo na área de desenvolvimento web desde 2019 e a cada dia me impressiono ainda mais ao perceber do que a tecnologia é capaz. Sou desenvolvedor em busca constante de desafios! Resolver problemas tem sido meu hobby 😁
 
-Formado em Engenharia de Computação, procuro contribuir com soluções inovadoras no desenvolvimento com IoT onde vejo a possibilidade de criar ou automatizar algo que impacte positivamente a vida das pessoas ao meu redor.
+Graduado em Engenharia de Computação, procuro contribuir com soluções inovadoras no desenvolvimento com IoT onde vejo a possibilidade de criar ou automatizar algo que impacte positivamente a vida das pessoas ao meu redor.
 
-Atualmente participo do Ignite da Rocketseat, um treinamento imersivo nas tecnologias mais modernas de desenvolvimento web e mobile. Com a constante evolução na stack JavaScript, pude desenvolver diversos projetos práticos onde estão todos em meus repositórios do GitHub.
+Sou Desenvolvedor Front-End na criação de aplicações web utilizando as tecnologias HTML, CSS, JavaScript, ReactJS.
 
-Sou Desenvolvedor Front-End autônomo na criação de sites utilizando as tecnologias HTML, CSS, JavaScript, ReactJS.
+Atualmente estou focado nos estudos voltados ao framework Next.js, entendendo e adicionando tipagem estática com TypeScript e realizando testes nas aplicações ReactJS.
+
+Com a constante evolução na stack JavaScript, pude desenvolver diversos projetos práticos onde estão todos em meus repositórios do GitHub (github.com/welltonq).
  
  
 ## Sobre mim 
