@@ -1,22 +1,34 @@
-<img align="right" width="400" height="300" src="https://user-images.githubusercontent.com/12499627/109495092-8c5f1e80-7a6d-11eb-9bde-851e93f30f3b.gif">
+<div>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=WelltonQ&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelltonQ&layout=compact&langs_count=16&theme=react"/>
+</div>
 
-# Bem vindo!
- 
-## Sou Wellton Quirino, Desenvolvedor Front-End!
- 
-Escolhi atuar com tecnologia em 2014 quando iniciei a faculdade e posso afirmar que foi a melhor escolha que fiz. Todos os dias eu acordo motivado a estudar e trabalhar com tecnologia pois é o que amo fazer. Atuo na área de desenvolvimento web desde 2019 e estou em busca constante de desafios! Resolver problemas tem sido meu hobby 😁
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Melhores Tecnologias</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="ts-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+   </div>
+    
+  
+  <h1 align="center">Meus Contatos</h1>
+  <a href="https://github.com/WelltonQ">
+   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" alt="Github Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/welltonquirino/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5584988178707&text=Hello!">
+    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" alt="Whatsapp Badge">
+  </a>
+  <a href="mailto:welltonquirino@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+</div>
 
-Graduado em Engenharia de Computação, procuro contribuir com soluções inovadoras no desenvolvimento com IoT onde vejo a possibilidade de criar ou automatizar algo que impacte positivamente a vida das pessoas ao meu redor.
-
-Sou Desenvolvedor Front-End na criação de aplicações web utilizando as tecnologias HTML, CSS, JavaScript, ReactJS, TypeScript e Next.js.
-
-Com a constante evolução na stack JavaScript, pude desenvolver diversos projetos práticos onde estão todos em meus repositórios do GitHub (github.com/welltonq).
- 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WelltonQ)](https://github.com/WelltonQ)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welltonquirino95/)](https://www.linkedin.com/in/welltonquirino/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584988178707&text=Hello!)](https://api.whatsapp.com/send?phone=5584988178707&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welltonquirino@gmail.com)](mailto:welltonquirino@gmail.com)
- 
-- Obrigado pela visita. 
- 
-- Até mais! 🙋‍♂️👨‍💻
+![Snake animation](https://github.com/WelltonQ/WelltonQ/blob/output/github-contribution-grid-snake.svg)
