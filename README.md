@@ -30,5 +30,6 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
 </div>
+ <br/>
 
 ![Snake animation](https://github.com/WelltonQ/WelltonQ/blob/output/github-contribution-grid-snake.svg)
