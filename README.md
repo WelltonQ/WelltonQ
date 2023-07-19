@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5fd5f5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Wellton;Sou+graduado+em+Engenharia+da+Computação;Desenvolvedor+Front-End;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
+
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WelltonQ&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelltonQ&layout=compact&langs_count=16&theme=react"/>
@@ -30,6 +32,3 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
 </div>
- <br/>
-
-![Snake animation](https://github.com/WelltonQ/WelltonQ/blob/output/github-contribution-grid-snake.svg)
